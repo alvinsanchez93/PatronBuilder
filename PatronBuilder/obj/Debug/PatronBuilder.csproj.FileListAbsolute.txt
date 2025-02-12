@@ -1,0 +1,7 @@
+C:\Users\alvin\source\repos\PatronBuilder\bin\Debug\PatronBuilder.exe.config
+C:\Users\alvin\source\repos\PatronBuilder\bin\Debug\PatronBuilder.exe
+C:\Users\alvin\source\repos\PatronBuilder\bin\Debug\PatronBuilder.pdb
+C:\Users\alvin\source\repos\PatronBuilder\obj\Debug\PatronBuilder.csproj.AssemblyReference.cache
+C:\Users\alvin\source\repos\PatronBuilder\obj\Debug\PatronBuilder.csproj.CoreCompileInputs.cache
+C:\Users\alvin\source\repos\PatronBuilder\obj\Debug\PatronBuilder.exe
+C:\Users\alvin\source\repos\PatronBuilder\obj\Debug\PatronBuilder.pdb
